@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+### Eternal Tinkerer 🔧
+
+- **Fleet:** 2–3 devices · 11–20 TB
+- **Motivation:** Privacy & data ownership, Customization & full control, Learning & experimenting
+- **My MVPs:** Audiobookshelf, Jellyfin, Gitea, Dashy, Dockge
 <!--
 **lisettepalouse/lisettepalouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
